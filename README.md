@@ -1,4 +1,4 @@
-# Image Processor programs... use colab link to view pynb with generated filters
+# Image Processor programs... use Google CoLab link (in .pynb file) to view generated filters conveniently 
 
 
 
